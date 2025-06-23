@@ -1,32 +1,7 @@
-# Mintlify Starter Kit
+# Why samantha?
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Why Samantha? To help simplify your life, stay organized, and feel supported. Samantha was created with that purpose in mind, inspired by the concept of an AI that understands your priorities, helps you focus, and gets things done with minimal friction—like the AI in _Her_ (2013), but reimagined for real-world practicality.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+### In Her
 
-### Development
-
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
-
-```
-npm i -g mintlify
-```
-
-Run the following command at the root of your documentation (where docs.json is)
-
-```
-mintlify dev
-```
-
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+In _Her_, Samantha seamlessly integrates into Theodore’s life by intuitively understanding his needs. She helps him manage his work, organize his tasks, and even explore creative ideas in ways he couldn’t have alone. Similarly, our Samantha is designed to do more than assist; she adapts to you, guiding your workflow, decluttering your mind, and helping you operate at your best.
